@@ -1,4 +1,4 @@
-# CSCI215
+# CSCI315
 The code for my senior portfolio from CSCI 315.
 
 ## Screenshots:
